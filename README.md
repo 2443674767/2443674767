@@ -70,9 +70,9 @@
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2443674767)](https://github.com/anuraghazra/github-readme-stats)
+[![Yuan Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=2443674767&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/2443674767)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2443674767\&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2443674767&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/2443674767)
 
 ---
 
