@@ -81,7 +81,7 @@ Microservice platform integrating **LangChain + LLM**
 ---
 #  📊 GitHub Stats
 
-[![Yuan Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=2443674767&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Yuan Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=2443674767)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2443674767&layout=compact)
 
