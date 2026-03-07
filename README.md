@@ -1,16 +1,16 @@
 # Hi, I'm Yuan Zhang 👋
 
 💻 Software Engineer | Backend Developer | Industrial Systems
-🚀 Focus on Go, Distributed Systems, Industrial Data Platforms
+🚀 Focus on Go, Microservice System, Industrial Data Platforms
 
 ---
 
 ## 🧑‍💻 About Me
 
 * 🔭 Currently working on **Industrial Data Acquisition Systems**
-* 🌱 Learning **Distributed Architecture / Event Driven Systems**
+* 🌱 Learning **Microservice System / Event Driven Systems**
 * 🧠 Interested in **IoT · Industrial Automation · AI Integration**
-* ⚙️ Building systems using **Go / Kafka / Redis / SQLite / MCP**
+* ⚙️ Building systems using **Go / Vue / PostgreSQL / SQLite**
 * 🛰 Exploring **Digital Twin & Industrial Data Platforms**
 
 ---
@@ -21,14 +21,13 @@
 
 * Go
 * Python
-* C / Delphi
+* Delphi / Pascal / C
 
 ### Infrastructure
 
 * Kafka
 * Redis
-* Docker
-* Nginx
+* ES
 
 ### Database
 
@@ -38,10 +37,12 @@
 
 ### Tools
 
-* Git
-* Linux
+* GoLand
 * Blender
-* Node / NPM
+* Delphi / Pascal
+* Cursor ? Node
+* OLLAMA
+* PyCharm
 
 ---
 
@@ -51,13 +52,14 @@
 
 * Event-driven architecture
 * Multi-device communication (TCP / UDP / CAN / COM)
-* Real-time data processing
-* Built with Go + Kafka
+* Real-time data processing (WebSocket / MQTT)
+* Built with Go + Vue3
 
 ### MCP Microservice Platform
 
 * LangChain + OpenAI integration
-* SQLite data layer
+* OLLAMA + Local large model
+* PostgreSQL data layer
 * Microservice architecture
 
 ### Personal Technical Website
@@ -78,6 +80,7 @@
 
 * GitHub: https://github.com/2443674767
 * Website: https://zhangyuan.click
+* Email: yuan_zhang_daxia@163.com
 
 ---
 
