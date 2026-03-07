@@ -28,7 +28,7 @@
 
 ### Frontend
 
-![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge\&logo=vue.js\&logoColor=white)
+![Vue3](https://img.shields.io/badge/Vue-42b883?style=for-the-badge\&logo=vue.js\&logoColor=white)
 
 ### Infrastructure
 
@@ -82,9 +82,9 @@ Microservice platform integrating **LangChain + LLM**
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=2443674767\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=2443674767&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2443674767\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2443674767&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
