@@ -80,14 +80,6 @@ Microservice platform integrating **LangChain + LLM**
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=2443674767&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2443674767&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 # 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=2443674767\&theme=tokyonight\&hide_border=true)
