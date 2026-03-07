@@ -66,7 +66,7 @@
 
 🌐 https://zhangyuan.click
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=2443674767&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2443674767)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
