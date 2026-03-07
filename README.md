@@ -66,6 +66,8 @@
 
 🌐 https://zhangyuan.click
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=2443674767&show_icons=true&theme=tokyonight)
+
 ---
 
 ## 📊 GitHub Stats
