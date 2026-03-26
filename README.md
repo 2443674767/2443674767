@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yuan Zhang
+# 👋 Hi, I'm Evan Zhang
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Go+Developer;Industrial+Systems+Engineer;IoT+%26+Digital+Twin+Explorer&center=true&size=28">
